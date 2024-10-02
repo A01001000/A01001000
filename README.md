@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hey, I'm Anya! 👋
 
+I'm a postgraduate student in the Cognitive Science MSc program at the University of Edinburgh. I have a passion for ethical, human-oriented solutions through technology, particularly in the healthcare and brain studies sectors. 
+
+* With a Computer Science undergrad background, I have a deep interest in Artificial Intelligence and Machine Learning, specifically topics such as Deep Learning and Reinforcement Learning.
+* I find the brain fascinating and am taking Cognitive Science, Neuroscience, and Bioinformatics classes to learn more!
 <!--
 **A01001000/A01001000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

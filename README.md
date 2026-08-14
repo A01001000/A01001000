@@ -1,9 +1,8 @@
 ## Hey, I'm Anya! 👋
 
-I'm a postgraduate student in the Cognitive Science MSc program at the University of Edinburgh. I have a passion for ethical, human-oriented solutions through technology, particularly in the healthcare and brain studies sectors. 
+* I am an independent researcher with an MSc in Cognitive Science MSc from the University of Edinburgh and a BS in Computer Science from Ateneo de Manila University. I have a passion for ethical, human-oriented solutions in AI, especially those with connections to the brain. 
 
-* With a Computer Science undergrad background, I have a deep interest in Artificial Intelligence and Machine Learning, specifically topics such as Deep Learning and Reinforcement Learning.
-* I find the brain fascinating and am taking Cognitive Science, Neuroscience, and Bioinformatics classes to learn more!
+* I study the various dimensions and behavioural impacts of human-AI interaction in an effort to ensure frontier AI benchmarks of alignment are sufficiently reflective of real-world dynamics and firmly rooted in pluralistic human values. 
 <!--
 **A01001000/A01001000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
